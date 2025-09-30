@@ -7,11 +7,22 @@ color: darkslategrey;
 text-align: center;
 font: bolder;
 }
-h2 {
-color: goldenrod;
-text-align: center;
+.about {
+  background-color: cornsilk;
+  padding: 20px;
 }
-li {
-color: darkolivegreen;
-text-align: center;
+
+.skills {
+  background-color: cornsilk;
+  font-size: 16px;
+}
+
+.projects {
+  border-top: 2px solid goldenrod;
+  padding: 15px;
+}
+
+.contact {
+  text-align: center;
+  color: darkslategrey;
 }
