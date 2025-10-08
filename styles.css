@@ -26,3 +26,8 @@ font: bolder;
   text-align: left;
   color: darkslategrey;
 }
+
+.problem {
+  background-color: cornsilk;
+  padding: 20px;
+}
